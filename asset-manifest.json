@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson11-training-redux/static/css/main.38544fcc.chunk.css",
+    "main.js": "/lesson11-training-redux/static/js/main.a868ef12.chunk.js",
+    "main.js.map": "/lesson11-training-redux/static/js/main.a868ef12.chunk.js.map",
+    "runtime-main.js": "/lesson11-training-redux/static/js/runtime-main.e7a1ab17.js",
+    "runtime-main.js.map": "/lesson11-training-redux/static/js/runtime-main.e7a1ab17.js.map",
+    "static/js/2.7f8206a1.chunk.js": "/lesson11-training-redux/static/js/2.7f8206a1.chunk.js",
+    "static/js/2.7f8206a1.chunk.js.map": "/lesson11-training-redux/static/js/2.7f8206a1.chunk.js.map",
+    "index.html": "/lesson11-training-redux/index.html",
+    "precache-manifest.cf6fc6165fc88778337c5fd19ce8a254.js": "/lesson11-training-redux/precache-manifest.cf6fc6165fc88778337c5fd19ce8a254.js",
+    "service-worker.js": "/lesson11-training-redux/service-worker.js",
+    "static/css/main.38544fcc.chunk.css.map": "/lesson11-training-redux/static/css/main.38544fcc.chunk.css.map",
+    "static/js/2.7f8206a1.chunk.js.LICENSE.txt": "/lesson11-training-redux/static/js/2.7f8206a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a1ab17.js",
+    "static/js/2.7f8206a1.chunk.js",
+    "static/css/main.38544fcc.chunk.css",
+    "static/js/main.a868ef12.chunk.js"
+  ]
+}
