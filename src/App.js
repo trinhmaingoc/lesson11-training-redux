@@ -4,6 +4,7 @@ import TaskForm from './components/TaskForm';
 import TaskControl from './components/TaskControl';
 import TaskList from './components/TaskList';
 import { findIndex } from 'lodash'; // import _ if get all libratory
+import './training/Demo';
 
 export class App extends Component {
   constructor(props) {
